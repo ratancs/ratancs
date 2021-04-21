@@ -6,5 +6,4 @@
 - 🤔  I’m looking for help with ... redis, mongodb, kafka, elasticsearch, aws
 - 💬  Ask me about ... Anything
 - 📫  How to reach me: ... ratankumar.org
-- 😄  Pronouns: ... 
-- ⚡   Fun fact: ... 
+- ⚡   Fun fact: Never watched GoT :P
