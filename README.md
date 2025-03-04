@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on ... smallcase
+- 🔭  I’m currently working on ... Zerodha fund house
 - 🌱  I’m currently learning ... nodejs
 - 👯  I’m looking to collaborate on ... nodejs, redis, mongodb, kafka, elasticsearch, aws
 - 🤔  I’m looking for help with ... redis, mongodb, kafka, elasticsearch, aws
